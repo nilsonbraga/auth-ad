@@ -1,4 +1,4 @@
-# auth-ad
+# auth-ad with NODE JS
 Api to check an user on Active Directory. Check login and check member of a group methods.
 
 --------------------------------------------------------------------------------------------
