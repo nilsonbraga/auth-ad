@@ -4,7 +4,7 @@ Api to check an user on Active Directory. Check login and check member of a grou
 --------------------------------------------------------------------------------------------
 
 This is an Active Directory login API.
-This API has two routes that receive parameters via PUT / JSON:
+This API has two routes that receive parameters via POST / JSON:
 
 / login, verify the login with username and password.
 entry {username, password}
